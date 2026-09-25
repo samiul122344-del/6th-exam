@@ -62,7 +62,7 @@ export default function Home() {
 
             <div className="relative w-full h-full max-h-105 mr-0 sm:mr-6 lg:mr-12 opacity-40 sm:opacity-100">
               <Image
-                src="/banner.png"
+                src="./banner.png"
                 alt="FitLog Hero Banner"
                 fill
                 className="object-contain object-right"
