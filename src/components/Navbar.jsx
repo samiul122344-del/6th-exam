@@ -23,7 +23,7 @@ export default function Navbar() {
         <Link href="/" className="flex items-center gap-2.5 group">
           <div className="relative w-7 h-7 flex items-center justify-center">
             <Image
-              src="/logo.png"
+              src="./logo.png"
               alt="FitLog Logo"
               width={28}
               height={28}
